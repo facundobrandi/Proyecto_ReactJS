@@ -11,9 +11,8 @@ Este proyecto fue creado con:
 ## Demo
 
 ![](src/Screenshots/main.png)
-![alt text](https://github.com/facundobrandi/Proyecto_ReactJS/blob/main/detalle.png?raw=true)
-![alt text](https://github.com/facundobrandi/Proyecto_ReactJS/blob/main/carrito.png?raw=true)
-
+![](src/Screenshots/detalle.png)
+![](src/Screenshots/carrito.png)
 ## Estructura de directorios
 
  - `/components`

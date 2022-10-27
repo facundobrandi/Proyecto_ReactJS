@@ -10,9 +10,9 @@ Este proyecto fue creado con:
 
 ## Demo
 
-![](../screens%20proyecto/main.png)
-![](../screens%20proyecto/detalle.png)
-![](../screens%20proyecto/carrito.png)
+![alt text](https://github.com/facundobrandi/Proyecto_ReactJS/blob/main/main.png?raw=true)
+![alt text](https://github.com/facundobrandi/Proyecto_ReactJS/blob/main/detalle.png?raw=true)
+![alt text](https://github.com/facundobrandi/Proyecto_ReactJS/blob/main/carrito.png?raw=true)
 
 ## Estructura de directorios
 

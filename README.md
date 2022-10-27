@@ -7,6 +7,13 @@ Este proyecto fue creado con:
  - Boostrap
  - Firebase
 
+
+## Demo
+
+![](../screens%20proyecto/main.png)
+![](../screens%20proyecto/detalle.png)
+![](../screens%20proyecto/carrito.png)
+
 ## Estructura de directorios
 
  - `/components`

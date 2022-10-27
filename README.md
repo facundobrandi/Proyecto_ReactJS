@@ -10,7 +10,7 @@ Este proyecto fue creado con:
 
 ## Demo
 
-![alt text](https://github.com/facundobrandi/Proyecto_ReactJS/blob/main/main.png?raw=true)
+![](scr/Screenshots/main.png)
 ![alt text](https://github.com/facundobrandi/Proyecto_ReactJS/blob/main/detalle.png?raw=true)
 ![alt text](https://github.com/facundobrandi/Proyecto_ReactJS/blob/main/carrito.png?raw=true)
 

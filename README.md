@@ -7,15 +7,6 @@ Este proyecto fue creado con:
  - Boostrap
  - Firebase
 
-### Deployment
-
-[hernangh.github.io/reactjs38100](https://hernangh.github.io/reactjs38100)
-
-
-## Demo
-
-![](https://firebasestorage.googleapis.com/v0/b/coderhouse-ecommerce-4f34a.appspot.com/o/navegacion.gif?alt=media&token=cb5b29f8-edf1-4c3a-b552-63edd73680b9)
-
 ## Estructura de directorios
 
  - `/components`
